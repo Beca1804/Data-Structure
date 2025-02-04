@@ -1,3 +1,8 @@
+/**
+ * Autor: Rebeca Garcia
+ * Matrícula: 14457
+ * Fecha: 31-Enero-2025
+ */
 
 class Average {
     public  void pop() {
